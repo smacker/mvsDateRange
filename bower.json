@@ -1,0 +1,25 @@
+{
+  "name": "mvsDateRange",
+  "main": "mvsDateRange.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/smacker/mvsDateRange",
+  "authors": [
+    "Maxim Sukharev <max@smacker.ru>"
+  ],
+  "description": "jQuery UI Datepicker AngularJS directive that allow to select date range",
+  "keywords": [
+    "angular",
+    "jquery",
+    "jquery-ui",
+    "datepicker",
+    "daterange"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
